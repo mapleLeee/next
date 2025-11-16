@@ -9,6 +9,6 @@ export const metadata = {
 
 export default function page() {
   return (
-    <MainPage imgUrl={'/image/2.jpg'} alt="Main Background" content="Welcome to My World" />
+    <MainPage imgUrl={'/image/2.jpg'} alt="" content="Welcome to My World" />
   )
 }
